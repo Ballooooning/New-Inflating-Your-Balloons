@@ -1,9 +1,12 @@
-The Ballooooning token has evolved from a standard ERC20 token named Balloon (old contract address:0xf2EcDc4559d62E20b1a7F5FFF5C353f0CD3331C4 https://ftmscan.com/token/0xf2ecdc4559d62e20b1a7f5fff5c353f0cd3331c4) into a combination of an ERC20 token named Air and a Balloon NFT that is automatically sent to the wallet that purchased the Air tokens. However, once you purchase the Air tokens with wFTM, the wFTM is not transferred in one lump sum, instead it is automatically streamed at a rate of 1 Air token per second until your purchased amount runs out. At any point you can purchase more Air tokens, sell them, or even transfer them to someone else. Although, you can only purchase one
+   The Ballooooning token has evolved from a standard ERC20 token named Balloon (old contract address:0xf2EcDc4559d62E20b1a7F5FFF5C353f0CD3331C4 https://ftmscan.com/token/0xf2ecdc4559d62e20b1a7f5fff5c353f0cd3331c4) into a combination of an ERC20 token named Air and a Balloon NFT that is automatically sent to the wallet that purchased the Air tokens. However, once you purchase the Air tokens they are not transferred in one lump sum, instead they are automatically streamed at a rate of 1 Air token per second to your wallet until you receive all of your purchased amount, which ends your current stream. At any point you can update your stream and purchase more Air tokens, sell them, or even transfer them to someone else.  If you transfer your Balloon to another address (that doesn't already have a Balloon), your stream will automatically cancel and the metadata on the NFT will be unchanged (not reset to the first image) after the transfer.
 
-When you purchase Air tokens for the first time, you will automatically receive a dynamic NFT of a balloon that will change in colors and grow in size depending on the amount of Air tokens in your wallet. 
-For example, There will be 5 "stages" of your balloon NFT that will increase in size at each stage as you stream more Air into your NFT balloon according to the illustration below: 
+   When you purchase Air tokens for the first time, you will automatically receive a dynamic Balloon NFT that updates the NFTs metadata making it change colors every second during your stream and then grow in size depending on the amount of Air tokens in your wallet. You can only receive one dynamic NFT at a time per wallet, so if you sell your Air tokens or transfer your NFT, make sure your Air token balance is zero if you want to purchase more Air tokens down the road and receive a new NFT, otherwise having a very small amount of Air tokens (token dust) in your wallet could prevent you from receiving a new NFT if you purchase more Air tokens later on. 
 
-Balance:
+  After you first purchase Air tokens, your dynamic balloon will start at the first stage which is when your wallet has a balance of Air tokens between 0 and 
+  
+  For example, There will be 5 "stages" of your balloon NFT that will increase in size at each stage as you stream more Air into your NFT balloon according to the illustration below: 
+
+   Balance:
 Stage 0 = 0 - 10,000 Air tokens.
 <br></br>
 <right>
@@ -37,8 +40,6 @@ Stage 4 = 40,000 - 50,000 Air tokens.
 
 
 
-
-# “Waterable” Flower NFTs - Changes Metadata as It Accrues Tokens From a Superfluid Stream
 
 ## What is Superfluid
 
