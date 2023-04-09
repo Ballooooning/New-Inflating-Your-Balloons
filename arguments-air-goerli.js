@@ -1,9 +1,9 @@
 const hre = require("hardhat");
 
 const stageAmounts = [
-    hre.ethers.utils.parseEther("10000"),
-    hre.ethers.utils.parseEther("10000"),
-    hre.ethers.utils.parseEther("10000"),
+    hre.ethers.utils.parseEther("260"),
+    hre.ethers.utils.parseEther("15600"),
+    hre.ethers.utils.parseEther("417600"),
     hre.ethers.utils.parseEther("10000"),
     hre.ethers.utils.parseEther("10000")
 ]
