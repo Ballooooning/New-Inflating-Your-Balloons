@@ -7,30 +7,30 @@ Balance:
 Stage 0 = 0 - 10,000 Air tokens.
 <br></br>
 <center>
-<img src="./resources/img/stage 0.gif" alt="process" width="40%"/>
+<img src="./resources/img/stage-0.gif" alt="process" width="40%"/>
 </center>
 <br></br>
 Stage 1 = 10,000 - 20,000 Air tokens.
 <br></br>
 <center>
-<img src="./resources/img/stage 1.gif" alt="process" width="40%"/>
+<img src="./resources/img/stage-1.gif" alt="process" width="40%"/>
 </center>
 <br></br>
 Stage 2 = 20,000 - 30,000 Air tokens.
 <br></br>
 <center>
-<img src="./resources/img/stage 2.gif" alt="process" width="40%"/>
+<img src="./resources/img/stage-2.gif" alt="process" width="40%"/>
 </center>
 <br></br>
 Stage 3 = 30,000 - 40,000 Air tokens.<br></br>
 <center>
-<img src="./resources/img/stage 3.gif" alt="process" width="40%"/>
+<img src="./resources/img/stage-3.gif" alt="process" width="40%"/>
 </center>
 <br></br>
 Stage 4 = 40,000 - 50,000 Air tokens.
 <br></br>
 <center>
-<img src="./resources/img/stage 4.gif" alt="process" width="40%"/>
+<img src="./resources/img/stage-4.gif" alt="process" width="40%"/>
 </center>
 <br></br>
 
