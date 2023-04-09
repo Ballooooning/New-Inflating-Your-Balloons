@@ -2,36 +2,25 @@
 
    When you purchase Air tokens for the first time, you will automatically receive a dynamic Balloon NFT that updates the NFTs metadata making it change colors every second during your stream and then grow in size depending on the amount of Air tokens in your wallet. You can only receive one dynamic NFT at a time per wallet, so if you sell your Air tokens or transfer your NFT, make sure your Air token balance is zero if you want to purchase more Air tokens down the road and receive a new NFT, otherwise having a very small amount of Air tokens (token dust) in your wallet could prevent you from receiving a new NFT if you purchase more Air tokens later on. 
 
-  After you first purchase Air tokens, your dynamic balloon will start at the first stage which is when your wallet has a balance of Air tokens between 0 and 
+  After you first purchase Air tokens, your dynamic balloon will start at the first stage which is when your wallet has a balance between 0 and 260 Air tokens.
   
   For example, There will be 5 "stages" of your balloon NFT that will increase in size at each stage as you stream more Air into your NFT balloon according to the illustration below: 
 
-   Balance:
+   The 5 stages depend on the balance of Air tokens in your wallet:
    
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-Stage 0 = 0 - 10,000 Air tokens.
+Stage 0 is between 0 and 260 Air tokens and the balloon will be this size and will change color during your stream every second with each new token sent to your wallet. 
 <br></br>
-<right>
+<center>
 <img src="./resources/img/stage 0.gif" alt="process" width="30%"/>
-</right>
+</center>
 <br></br>
-Stage 1 = 10,000 - 20,000 Air tokens.
+Stage 1 is between 260 - 15,600 Air tokens and the balloon will be this size and will change color during your stream every second with each new token sent to your wallet. 
 <br></br>
 <center>
 <img src="./resources/img/stage 1.gif" alt="process" width="30%"/>
 </center>
 <br></br>
-Stage 2 = 20,000 - 30,000 Air tokens.
+Stage 2 is between 15,600 and 417,600 tokens and will
 <br></br>
 <center>
 <img src="./resources/img/stage 2.gif" alt="process" width="30%"/>
