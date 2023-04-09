@@ -7,6 +7,18 @@
   For example, There will be 5 "stages" of your balloon NFT that will increase in size at each stage as you stream more Air into your NFT balloon according to the illustration below: 
 
    Balance:
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
 Stage 0 = 0 - 10,000 Air tokens.
 <br></br>
 <right>
