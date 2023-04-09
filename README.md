@@ -4,11 +4,11 @@ When you purchase Air tokens for the first time, you will automatically receive 
 For example, There will be 5 "stages" of your balloon NFT that will increase in size at each stage as you stream more Air into your NFT balloon according to the illustration below: 
 
 Balance:
-Stage 0 = 0 - 10,000 Air tokens
-Stage 1 = 10,000 - 20,000 Air tokens
-Stage 2 = 20,000 - 30,000 Air tokens
-Stage 3 = 30,000 - 40,000 Air tokens
-Stage 4 = 40,000 - 50,000 Air tokens
+Stage 0 = 0 - 10,000 Air tokens.
+Stage 1 = 10,000 - 20,000 Air tokens.
+Stage 2 = 20,000 - 30,000 Air tokens.
+Stage 3 = 30,000 - 40,000 Air tokens.
+Stage 4 = 40,000 - 50,000 Air tokens.
 
 
 
