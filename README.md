@@ -5,8 +5,6 @@ For example, There will be 5 "stages" of your balloon NFT that will increase in 
 
 Balance:
 Stage 0 = 0 - 10,000 Air tokens
-C:\Users\enjoy\OneDrive\Desktop\Ballooooning\Images\balloon pics\Stage 0\stage 0 gif.gif
-
 Stage 1 = 10,000 - 20,000 Air tokens
 Stage 2 = 20,000 - 30,000 Air tokens
 Stage 3 = 30,000 - 40,000 Air tokens
