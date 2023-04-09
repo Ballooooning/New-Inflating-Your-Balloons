@@ -1,9 +1,14 @@
 The Ballooooning token has evolved from a standard ERC20 token named Balloon (old contract address:0xf2EcDc4559d62E20b1a7F5FFF5C353f0CD3331C4 https://ftmscan.com/token/0xf2ecdc4559d62e20b1a7f5fff5c353f0cd3331c4) into a combination of an ERC20 token named Air and a Balloon NFT that is automatically sent to the wallet that purchased the Air tokens. However, once you purchase the Air tokens with wFTM, the wFTM is not transferred in one lump sum, instead it is automatically streamed at a rate of 1 Air token per second until it runs out. At any point you can purchase moe Air tokens, or sell them, or even transfer them to someone else. 
 
 When you purchase Air tokens for the first time, you will automatically receive a dyamic NFT of a balloon that will change in colors and grow in size depending on the amount of Air tokens in your wallet. 
-For example, There will be 5 "tiers" of your balloon NFT that will increase in size as you stream, or pump, more Air into your balloon NFT according to the illustration below. 
+For example, There will be 5 "stages" of your balloon NFT that will increase in size at each stage as you stream more Air into your NFT balloon according to the illustration below: 
 
 Balance:
+Stage 0 = 0 - 10,000 Air tokens 
+Stage 1 = 10,000 - 20,000 Air tokens
+Stage 2 = 20,000 - 30,000 Air tokens
+Stage 3 = 30,000 - 40,000 Air tokens
+Stage 4 = 40,000 - 50,000 Air tokens
 
 
 

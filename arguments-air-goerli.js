@@ -1,9 +1,11 @@
 const hre = require("hardhat");
 
 const stageAmounts = [
-    hre.ethers.utils.parseEther("10"),
-    hre.ethers.utils.parseEther("10"),
-    hre.ethers.utils.parseEther("10")
+    hre.ethers.utils.parseEther("10000"),
+    hre.ethers.utils.parseEther("10000"),
+    hre.ethers.utils.parseEther("10000"),
+    hre.ethers.utils.parseEther("10000"),
+    hre.ethers.utils.parseEther("10000")
 ]
 const acceptedToken = "0x875Fa8aCaAe9fD57De678f9e52dF324B6279FF58";
 const host = "0x22ff293e14F1EC3A09B137e9e06084AFd63adDF9";
