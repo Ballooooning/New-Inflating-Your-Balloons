@@ -7,7 +7,7 @@ Balance:
 Stage 0 = 0 - 10,000 Air tokens.
 <br></br>
 <center>
-<img src="./resources/img/stage-0.gif" alt="process" width="40%"/>
+<img src="./resources/img/stage 0.gif" alt="process" width="40%"/>
 </center>
 <br></br>
 Stage 1 = 10,000 - 20,000 Air tokens.
