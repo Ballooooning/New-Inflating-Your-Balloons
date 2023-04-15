@@ -60,6 +60,15 @@ Streaming refers to the by-the-second movement of tokens between accounts. Imagi
 </center>
 <br></br>
 
+Example 
+Account A's Static Balance: 1,000 USDCx
+Account A has an active CFA stream going that has streamed out 100 USDCx so far.
+CFA Real-Time Balance = -100 USDCx
+Account A has received 200 USDCx through IDA distributions.
+IDA Real-Time Balance = +200 USDCx
+Current Balance = 1000 + -100 + 200 = 1100 USDCx
+The bottom line is that while a regular ERC20 just tracks a static balance which it shows when you call balanceOf(), a Super Token's balanceOf() takes that and layers on real-time balances to account for Super Agreements.
+
 Want to learn more? A more holistic explainer of Superfluid can be found [here](https://docs.superfluid.finance/superfluid/protocol-overview/in-depth-overview).
 
 ## Flower NFTs (non-technical overview)
