@@ -68,33 +68,33 @@ Stage 4 represents a balance of 40,000 to 50,000 Air tokens.
 
 ![Stage 4](./resources/img/stage_4.gif)
 
-## Collage of Stage 5 Balloon NFTs
+## Collage of Stage 4 Balloon NFTs
 
-As the Balloon NFT evolves through different stages based on the balance of Air tokens in your wallet, you can showcase a visually stunning collage by combining multiple Stage 5 NFTs in a 5x5 grid pattern. Each Stage 5 NFT represents a balance of 40,000 to 50,000 Air tokens.
+As the Balloon NFT evolves through different stages based on the balance of Air tokens in your wallet, you can showcase a visually stunning collage by combining multiple Stage 4 NFTs in a 5x5 grid pattern. Each Stage 4 NFT represents a balance of 40,000 to 50,000 Air tokens.
 
-Here's an example of what the collage of Stage 5 NFTs would look like:
+Here's an example of what the collage of Stage 4 NFTs would look like:
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; max-width: 600px; margin: 0 auto;">
-    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
-    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
-    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
-    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
-    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
-    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
-    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
-    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
-    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
-    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
-    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
-    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
-    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
-    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
-    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
-    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
-    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
-    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
-    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
-    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_4.gif" alt="Stage 4" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_4.gif" alt="Stage 4" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_4.gif" alt="Stage 4" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_4.gif" alt="Stage 4" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_4.gif" alt="Stage 4" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_4.gif" alt="Stage 4" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_4.gif" alt="Stage 4" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_4.gif" alt="Stage 4" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_4.gif" alt="Stage 4" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_4.gif" alt="Stage 4" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_4.gif" alt="Stage 4" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_4.gif" alt="Stage 4" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_4.gif" alt="Stage 4" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_4.gif" alt="Stage 4" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_4.gif" alt="Stage 4" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_4.gif" alt="Stage 4" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_4.gif" alt="Stage 4" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_4.gif" alt="Stage 4" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_4.gif" alt="Stage 4" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_4.gif" alt="Stage 4" width="30%" style="margin: 5px;">
 </div>
 
 
