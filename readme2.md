@@ -22,11 +22,11 @@ For more information on Superfluid, refer to the [Superfluid Protocol Overview](
 
 ## Getting Started
 
-Currently, Ballooooning is waiting for Superfluid to be deployed and operating on Fantom, so once that is so, you will be able to purchase the Air tokens just like any other token. And when you do, the Ballooooning NFT will automatically appear in the wallet that purchased the Air tokens. 
+Currently, Ballooooning is waiting for Superfluid to be deployed and operating on Fantom. Once that is complete, you will be able to purchase the Air tokens just like any other token. When you purchase Air tokens, the Ballooooning NFT will automatically appear in the wallet that purchased the Air tokens.
 
 ## Challenges Faced
 
-Creating a decentralized and autonomous project from scratch poses various challenges. Some of the key challenges encountered during the development of the Dynamic Balloon NFT project include:
+Creating a decentralized and autonomous project from scratch posed various challenges. Some of the key challenges encountered during the development of the Dynamic Balloon NFT project include:
 
 1. **Implementing DAO Governance**: Establishing a robust governance structure within the project required careful consideration and integration of suitable DAO platforms. Finding the right balance between decentralization, security, and usability was a significant challenge.
 
@@ -38,36 +38,48 @@ Creating a decentralized and autonomous project from scratch poses various chall
 
 Overcoming these challenges required thorough research, collaboration with the developer community, and meticulous testing to ensure a decentralized and autonomous project with a seamless user experience.
 
-## The 5 stages depend on the balance of Air tokens in your wallet:
+## The 5 Stages Based on Air Token Balance
 
-Stage 0 is between 0 and 260 Air tokens, and the balloon will be this size and change color during your stream every second with each new token sent to your wallet.
+The appearance of the Balloon NFT evolves based on the balance of Air tokens in your wallet. Here are the 5 stages and their corresponding Air token balances:
 
-![Stage 0] <img src="./resources/img/stage 0.gif" alt="process" width="30%"/>
+**Stage 0**: Balloon size and color change during the stream with each new token sent to your wallet. Balance range: 0 - 10,000 Air tokens.
 
-Stage 1 is between 260 and 15,600 Air tokens, and the balloon will be this size and change color during your stream every second with each new token sent to your wallet.
+![Stage 0](./resources/img/stage 0.gif)
 
-![Stage 1] <img src="./resources/img/stage 2.gif" alt="process" width="30%"/>
+**Stage 1**: Balloon size and color change during the stream with each new token sent to your wallet. Balance range: 10,000 - 20,000 Air tokens.
 
-Stage 2 is between 15,600 and 417,600 tokens.
+![Stage 1](./resources/img/stage 1.gif)
 
-![Stage 2] <img src="./resources/img/stage 2.gif" alt="process" width="30%"/>
+**Stage 2**: Balloon size and color change during the stream with each new token sent to your wallet. Balance range: 20,000 - 30,000 Air tokens.
 
-Stage 3 represents a balance of 30,000 to 40,000 Air tokens.
+![Stage 2](./resources/img/stage 2.gif)
 
-![Stage 3] <img src="./resources/img/stage 3.gif" alt="process" width="30%"/>
+**Stage 3**: Balloon size and color change during the stream with each new token sent to your wallet. Balance range: 30,000 - 40,000 Air tokens.
 
-Stage 4 represents a balance of 40,000 to 50,000 Air tokens.
+![Stage 3](./resources/img/stage 3.gif)
 
-![Stage 4] <img src="./resources/img/stage 4.gif" alt="process" width="30%"/>
+**Stage 4**: Balloon size and color change during the stream with each new token sent to your wallet. Balance range: 40,000 - 50,000 Air tokens.
+
+![Stage 4](./resources/img/stage 4.gif)
 
 ## Collage of Stage 4 Balloon NFTs
 
-As the Balloon NFT evolves through different stages based on the balance of Air tokens in your wallet, you can showcase a visually stunning collage by combining multiple Stage 4 NFTs in a collage pattern. Each Stage 4 NFT represents a balance of 40,000 to 50,000 Air tokens.
+As the Balloon NFT evolves through different stages based on the balance of Air tokens in your wallet, you can showcase a visually stunning collage by combining multiple Stage 4 NFTs in a 5x5 grid pattern. Each Stage 4 NFT represents a balance of 40,000 to 50,000 Air tokens.
 
 Here's an example of what the collage of Stage 4 NFTs would look like:
 
-<img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/>
-
+<div align="center">
+<img src="./resources/img/stage 4.gif" alt="process" width="30%" style="margin: 5px;">
+<img src="./resources/img/stage 4.gif" alt="process" width="30%" style="margin: 5px;">
+<img src="./resources/img/stage 4.gif" alt="process" width="30%" style="margin: 5px;">
+<img src="./resources/img/stage 4.gif" alt="process" width="30%" style="margin: 5px;">
+<img src="./resources/img/stage 4.gif" alt="process" width="30%" style="margin: 5px;">
+<img src="./resources/img/stage 4.gif" alt="process" width="30%" style="margin: 5px;">
+<img src="./resources/img/stage 4.gif" alt="process" width="30%" style="margin: 5px;">
+<img src="./resources/img/stage 4.gif" alt="process" width="30%" style="margin: 5px;">
+<img src="./resources/img/stage 4.gif" alt="process" width="30%" style="margin: 5px;">
+<img src="./resources/img/stage 4.gif" alt="process" width="30%" style="margin: 5px;">
+</div>
 
 
 
