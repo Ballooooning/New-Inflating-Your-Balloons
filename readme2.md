@@ -74,7 +74,7 @@ As the Balloon NFT evolves through different stages based on the balance of Air 
 
 Here's an example of what the collage of Stage 4 NFTs would look like:
 
-<img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/>
+<img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/><img src="./resources/img/stage 4.gif" alt="process" width="30%"/>
 
 
 
