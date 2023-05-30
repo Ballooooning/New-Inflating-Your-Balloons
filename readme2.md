@@ -43,24 +43,24 @@ Overcoming these challenges required thorough research, collaboration with the d
 The appearance of the Balloon NFT evolves based on the balance of Air tokens in your wallet. Here are the 5 stages and their corresponding Air token balances:
 
 **Stage 0**: Balloon size and color change during the stream with each new token sent to your wallet. Balance range: 0 - 10,000 Air tokens.
-
-![Stage 0]<img src="./resources/img/stage 0.gif" alt="process" width="30%" style="margin: 5px;">
+<br>
+<img src="./resources/img/stage 0.gif" alt="process" width="30%" style="margin: 5px;">
 
 **Stage 1**: Balloon size and color change during the stream with each new token sent to your wallet. Balance range: 10,000 - 20,000 Air tokens.
 
-![Stage 1]<img src="./resources/img/stage 1.gif" alt="process" width="30%" style="margin: 5px;">
+<br><img src="./resources/img/stage 1.gif" alt="process" width="30%" style="margin: 5px;">
 
 **Stage 2**: Balloon size and color change during the stream with each new token sent to your wallet. Balance range: 20,000 - 30,000 Air tokens.
 
-![Stage 2]<img src="./resources/img/stage 2.gif" alt="process" width="30%" style="margin: 5px;">
+<br><img src="./resources/img/stage 2.gif" alt="process" width="30%" style="margin: 5px;">
 
 **Stage 3**: Balloon size and color change during the stream with each new token sent to your wallet. Balance range: 30,000 - 40,000 Air tokens.
 
-![Stage 3]<img src="./resources/img/stage 3.gif" alt="process" width="30%" style="margin: 5px;">
+<br><img src="./resources/img/stage 3.gif" alt="process" width="30%" style="margin: 5px;">
 
 **Stage 4**: Balloon size and color change during the stream with each new token sent to your wallet. Balance range: 40,000 - 50,000 Air tokens.
 
-![Stage 4]<img src="./resources/img/stage 4.gif" alt="process" width="30%" style="margin: 5px;">
+<br><img src="./resources/img/stage 4.gif" alt="process" width="30%" style="margin: 5px;">
 
 ## Collage of Stage 4 Balloon NFTs
 
