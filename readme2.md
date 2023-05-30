@@ -22,15 +22,7 @@ For more information on Superfluid, refer to the [Superfluid Protocol Overview](
 
 ## Getting Started
 
-To try out the Dynamic Balloon NFT project on the Goerli Testnet, follow these steps:
-
-1. Clone the repository and install the necessary dependencies with `npm install`.
-2. Create a `.env` file and populate it with the required variables from the `.env.template`.
-3. Ensure your wallet contains sufficient Goerli ETH for the transaction fees.
-4. Mint WATERx Super Tokens using `npx hardhat run scripts/mintSuperWater.js --network goerli`.
-5. Stream WATERx Super Tokens to the Flower contract using `npx hardhat run scripts/streamWater.js --network goerli`.
-6. Visit [Opensea's Testnet App](https://testnets.opensea.io/) and search for your address to view the evolving Flower NFT.
-7. After 5 minutes, access the [NFT Viewer](https://www.nftviewer.xyz/) and enter the contract address (`0xEbEf99eE03571a5957E5d6ee4061940c760b0515`) and your token ID to see the NFT image's progression.
+Currently, Ballooooning is waiting for Superfluid to be deployed and operating on Fantom, so once that is so, you will be able to purchase the Air tokens just like any other token. And when you do, the Ballooooning NFT will automatically appear in the wallet that purchased the Air tokens. 
 
 ## Challenges Faced
 
