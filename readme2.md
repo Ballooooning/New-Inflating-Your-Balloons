@@ -74,12 +74,29 @@ As the Balloon NFT evolves through different stages based on the balance of Air 
 
 Here's an example of what the collage of Stage 5 NFTs would look like:
 
-| ![Stage 5](./resources/img/stage_5.gif) | ![Stage 5](./resources/img/stage_5.gif) | ![Stage 5](./resources/img/stage_5.gif) | ![Stage 5](./resources/img/stage_5.gif) | ![Stage 5](./resources/img/stage_5.gif) |
-|:---:|:---:|:---:|:---:|:---:|
-| ![Stage 5](./resources/img/stage_5.gif) | ![Stage 5](./resources/img/stage_5.gif) | ![Stage 5](./resources/img/stage_5.gif) | ![Stage 5](./resources/img/stage_5.gif) | ![Stage 5](./resources/img/stage_5.gif) |
-| ![Stage 5](./resources/img/stage_5.gif) | ![Stage 5](./resources/img/stage_5.gif) | ![Stage 5](./resources/img/stage_5.gif) | ![Stage 5](./resources/img/stage_5.gif) | ![Stage 5](./resources/img/stage_5.gif) |
-| ![Stage 5](./resources/img/stage_5.gif) | ![Stage 5](./resources/img/stage_5.gif) | ![Stage 5](./resources/img/stage_5.gif) | ![Stage 5](./resources/img/stage_5.gif) | ![Stage 5](./resources/img/stage_5.gif) |
-| ![Stage 5](./resources/img/stage_5.gif) | ![Stage 5](./resources/img/stage_5.gif) | ![Stage 5](./resources/img/stage_5.gif) | ![Stage 5](./resources/img/stage_5.gif) | ![Stage 5](./resources/img/stage_5.gif) |
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; max-width: 600px; margin: 0 auto;">
+    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
+    <img src="./resources/img/stage_5.gif" alt="Stage 5" width="30%" style="margin: 5px;">
+</div>
+
 
 
 
