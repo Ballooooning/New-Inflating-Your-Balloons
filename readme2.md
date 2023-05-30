@@ -78,7 +78,6 @@ Here's an example of what the collage of Stage 4 NFTs would look like:
 <img src="./resources/img/stage 4.gif" alt="process" width="30%" style="margin: 5px;">
 <img src="./resources/img/stage 4.gif" alt="process" width="30%" style="margin: 5px;">
 <img src="./resources/img/stage 4.gif" alt="process" width="30%" style="margin: 5px;">
-<img src="./resources/img/stage 4.gif" alt="process" width="30%" style="margin: 5px;">
 </div>
 
 
